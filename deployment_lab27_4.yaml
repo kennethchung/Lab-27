@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: ccat737/uw:1.0.0
+        image: ccat737/uw:1.0.1
         imagePullPolicy: Always 
 ---
 apiVersion: v1 
